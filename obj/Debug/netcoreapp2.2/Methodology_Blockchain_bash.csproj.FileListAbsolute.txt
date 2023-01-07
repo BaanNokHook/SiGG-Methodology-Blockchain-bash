@@ -1,0 +1,13 @@
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\bin\Debug\netcoreapp2.2\Methodology_Blockchain_bash.deps.json
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\bin\Debug\netcoreapp2.2\Methodology_Blockchain_bash.runtimeconfig.json
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\bin\Debug\netcoreapp2.2\Methodology_Blockchain_bash.runtimeconfig.dev.json
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\bin\Debug\netcoreapp2.2\Methodology_Blockchain_bash.dll
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\bin\Debug\netcoreapp2.2\Methodology_Blockchain_bash.pdb
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.csproj.AssemblyReference.cache
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.AssemblyInfoInputs.cache
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.AssemblyInfo.cs
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.csproj.CoreCompileInputs.cache
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.dll
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.pdb
+D:\Cmd\Sudiiwa\Container_SWANNET\Methodology_Blockchain\Methodology_Blockchain_bash\obj\Debug\netcoreapp2.2\Methodology_Blockchain_bash.genruntimeconfig.cache
